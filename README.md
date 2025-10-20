@@ -3,6 +3,7 @@
 with Design Prior</font></center>**  
 
 [![Conference](https://img.shields.io/badge/ICCV-2025-green)]()
+[![Paper](https://img.shields.io/badge/arXiv-2412.10028-brightgreen)](http://arxiv.org/abs/2510.15749)
 [![Project](https://img.shields.io/badge/Project-red)](https://brucew91.github.io/SEGA.github.io)
 
 
