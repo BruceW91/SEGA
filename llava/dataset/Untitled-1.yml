@@ -1,0 +1,23 @@
+curl 'https://drive.usercontent.google.com/download?id=1b357gVAnCSqMfbP3Cc2ey6LCeoohfYAi&export=download&authuser=0&confirm=t&uuid=a8f72e9c-8314-426c-8643-4565ad2e734c&at=APZUnTXFuGiBq8kdLupQ5Lf-PDo5%3A1713425372595' \
+  -H 'authority: drive.usercontent.google.com' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6,zh;q=0.5' \
+  -H 'cookie: HSID=AO1ZBWlDVkJ9ZdMQJ; SSID=AFjYcsahIHIx6InuO; APISID=NnjwWiRHegExukda/Ad_n787MME1wVQLDy; SAPISID=yHw2tjREVTGcFGkA/AeAx7rzF3aUQZ91TI; __Secure-1PAPISID=yHw2tjREVTGcFGkA/AeAx7rzF3aUQZ91TI; __Secure-3PAPISID=yHw2tjREVTGcFGkA/AeAx7rzF3aUQZ91TI; SID=g.a000iQhWdtgjsqdeIBT1UbD_3Uz8997BLS2XARvRWyUXXdrw87IwvuvLuNYWmEF2zlhORKNofQACgYKAcgSAQASFQHGX2Mix3cmp2Y2XlMqXJpVJFEPSRoVAUF8yKpkvjQ-gxwpq74KukCiNx9o0076; __Secure-1PSID=g.a000iQhWdtgjsqdeIBT1UbD_3Uz8997BLS2XARvRWyUXXdrw87IwNyqHC6r0G0CeDOHW9uKcBQACgYKAXwSAQASFQHGX2Mirfqvqlc5m0TRYyHdLVwwWhoVAUF8yKp8aKvlN5VQFDIEqoNUrwdn0076; __Secure-3PSID=g.a000iQhWdtgjsqdeIBT1UbD_3Uz8997BLS2XARvRWyUXXdrw87IwWfT1l47nN6bch0GXL2RaNQACgYKASkSAQASFQHGX2MirxConJYxqVcUKYLZyfL8jBoVAUF8yKrh4yfbQ12MrTZ16TPqbYqf0076; NID=513=UYnm3tI1Yri6dMzqQSc-Pin7nJGyfSlSPyc4JNKjyu8QkAkrvqHu2fmf7alHX335a3MI9dgmlqE5T_nMmVfajtgnrXw-bqCw7pUs6j309hQyvo083U16kyoEUYGs4zXTC1nB3g-1k_nY-objKMZ5oZ6DX90LLXMIl35xS3f11I_tM97jvRYzMdYmD-DrW-OL489GEbSWG0cvC75HTVw7KnZMy8ThhTiQdxin1uTAuOsyofs04HAvcw4qM7_48bvLdW7Ke29oHgyKBiIxQf5o4MmvQ5z6Wo_yDPPMMyM-4_gbUHu7ad6JIUIDG10eJ6YzwNviTHgzBY91FdpMOPXGck6IsNqpG78TFC77tY23tpeof_rOqVpCY3PcFhB9ydSu0gOTLOz6a_q8xe3HEwZnzw0fF2jj-oo; 1P_JAR=2024-04-18-07; AEC=AQTF6HyYWmzpZUw--SZZ7Z0gi1cLP0yF3wTCA00aZ9LC3dYgcO7SAXQ0_TI; __Secure-1PSIDTS=sidts-CjEB7F1E_PUiG3oq_X-WKjtj7Fb5stYSGgGAjur6P39zQhFGiuQx1W8PXzVQGrfWtnWkEAA; __Secure-3PSIDTS=sidts-CjEB7F1E_PUiG3oq_X-WKjtj7Fb5stYSGgGAjur6P39zQhFGiuQx1W8PXzVQGrfWtnWkEAA; SIDCC=AKEyXzWbI-sYPOey2EkZOA6VuMIzZZKEcCmZtEyMWa9ZXDvtqO-4MukE_ZfZhhbMHyfcxeKekSFr; __Secure-1PSIDCC=AKEyXzXEEbeed6tnuBTdWKhcVt5ZpeHVFW4BQPYM7moRAsRNTWCBh4U74N9-kncfk4mhN_MMhpWp; __Secure-3PSIDCC=AKEyXzXeBysPFs_RO9zyA1G6y0l_41MgxCkgYb9NP_96TQRcWmi8NFO7AtlqNnwwmVkvCBUhSmUP' \
+  -H 'sec-ch-ua: "Not.A/Brand";v="8", "Chromium";v="114", "Google Chrome";v="114"' \
+  -H 'sec-ch-ua-arch: "x86"' \
+  -H 'sec-ch-ua-bitness: "64"' \
+  -H 'sec-ch-ua-full-version: "114.0.5735.198"' \
+  -H 'sec-ch-ua-full-version-list: "Not.A/Brand";v="8.0.0.0", "Chromium";v="114.0.5735.198", "Google Chrome";v="114.0.5735.198"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-model: ""' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-ch-ua-platform-version: "12.6.7"' \
+  -H 'sec-ch-ua-wow64: ?0' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36' \
+  -H 'x-client-data: CIu2yQEIpLbJAQipncoBCP6QywEIkqHLAQiGoM0BCLnKzQEYtYLOAQ==' \
+  --compressed
