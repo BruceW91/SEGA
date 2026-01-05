@@ -74,7 +74,18 @@ Here is an example:
 ```python
 python zzz_infer_crello.py --out "/data1/zb/LLaMA-Factory-main/temp_out/debug" --card "6" --lora "simple_sft_17e_nocot_all_old" --base  /data1/zb/ckpts/llava13b &
 python zzz_infer_crello.py --out "/data1/zb/LLaMA-Factory-main/temp_out/debug" --card "7" --lora "simple_sft_17e_nocot_all_old" --base /data1/zb/ckpts/llava13b 
+```
 
+## BibTeX
 
-
+If you find this work helpful, please cite our work:
+```
+@inproceedings{wang2025sega,
+  title={SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation with Design Prior},
+  author={Wang, Haoran and Zhao, Bo and Wang, Jinghui and Wang, Hanzhang and Yang, Huan and Ji, Wei and Liu, Hao and Xiao, Xinyan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={19321--19330},
+  year={2025}
+}
+```
 
