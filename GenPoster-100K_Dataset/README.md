@@ -9,11 +9,15 @@ We declare that we do not hold the copyright to the data, and we are only permit
 
 ## 2. Download link
 
-- This is the [download link](https://pan.baidu.com/s/1lOxHfM8kPPPN1jFE0QZZmA) of GenPoster-100K dataset.
+### 2.1 Baidu Netdisk
 
+- This is the [download link](https://pan.baidu.com/s/1lOxHfM8kPPPN1jFE0QZZmA) of GenPoster-100K dataset.
 - The extraction code of dataset is here:  
     <details>
       <summary><a href="[https://pan.baidu.com/s/1234567890abcdef](https://pan.baidu.com/s/1lOxHfM8kPPPN1jFE0QZZmA)" target="_blank">(click to view extraction code)</a></summary>
       <br>
       Extraction Code: 3593
     </details>
+    
+### 2.2 Hugging Face
+- This is the [dataset link](https://huggingface.co/datasets/BruceW91/GenPoster-100K) of GenPoster-100K dataset on Hugging Face platform.
