@@ -7,6 +7,8 @@ with Design Prior</font></center>**
 [![Project](https://img.shields.io/badge/Project-red)](https://brucew91.github.io/SEGA.github.io)
 
 
+<img src="Pull_Figure.png" width="750" height="350">
+
 ## Updates
 - [02/11/2026] We release the [GenPoster-100K dataset](https://huggingface.co/datasets/BruceW91/GenPoster-100K) on Hugging Face Website.
 - [11/24/2025] We release the inference code and models.
