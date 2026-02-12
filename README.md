@@ -8,9 +8,10 @@ with Design Prior</font></center>**
 
 
 ## Updates
-- [11/24] We release the inference code and models.
-- [10/25] We release the [GenPoster-100K dataset](GenPoster-100K_Dataset).
-- [06/25] SEGA is accepted by ICCV 2025.
+- [02/11/2026] We release the [GenPoster-100K dataset](https://huggingface.co/datasets/BruceW91/GenPoster-100K) on Hugging Face Website.
+- [11/24/2025] We release the inference code and models.
+- [10/25/2025] We release the [GenPoster-100K dataset](GenPoster-100K_Dataset).
+- [06/25/2025] SEGA is accepted by ICCV 2025.
 
 ## Code
 
