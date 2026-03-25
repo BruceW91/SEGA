@@ -1,5 +1,5 @@
 # SEGA
-**<center><font size=4>[ICCV 2025] SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation
+**<center><font size=4>[ICCV 2025 Spotlight] SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation
 with Design Prior</font></center>**  
 
 [![Conference](https://img.shields.io/badge/ICCV-2025-green)]()
